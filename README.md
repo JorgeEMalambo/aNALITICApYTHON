@@ -1,2 +1,2 @@
 # aNALITICApYTHON
-curso basico de analitica en lenguanj python en notebooks
+curso basico de analitica en lenguaje python en notebooks
